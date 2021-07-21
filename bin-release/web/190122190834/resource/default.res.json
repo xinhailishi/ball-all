@@ -1,0 +1,35 @@
+{
+	"groups": [
+		{
+			"keys": "pengzhuang_mp3,luse_mp3,win_mp3,fashe_mp3,jinquan_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "pengzhuang_mp3",
+			"type": "sound",
+			"url": "assets/pengzhuang.mp3"
+		},
+		{
+			"name": "luse_mp3",
+			"type": "sound",
+			"url": "assets/luse.mp3"
+		},
+		{
+			"name": "fashe_mp3",
+			"type": "sound",
+			"url": "assets/fashe.mp3"
+		},
+		{
+			"name": "win_mp3",
+			"type": "sound",
+			"url": "assets/win.mp3"
+		},
+		{
+			"name": "jinquan_mp3",
+			"type": "sound",
+			"url": "assets/jinquan.mp3"
+		}
+	]
+}
